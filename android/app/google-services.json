@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "802508657461",
+    "firebase_url": "https://authentication-412b3-default-rtdb.firebaseio.com",
+    "project_id": "authentication-412b3",
+    "storage_bucket": "authentication-412b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802508657461:android:14ceddcdbfbc9a7089b27c",
+        "android_client_info": {
+          "package_name": "com.example.autheticationa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC29otwSB1k12RhpqynC2-tcociu5CfJFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802508657461:android:f3709d6b3c64ba5389b27c",
+        "android_client_info": {
+          "package_name": "com.example.todo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC29otwSB1k12RhpqynC2-tcociu5CfJFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
